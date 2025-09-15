@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on School index book automation<br>👯 I’m looking to collaborate on web app<br>🌱 I’m currently learning NestJS and NextJS<br>💬 Ask me about anything<br>⚡ Fun fact i like badminton🏸
+🔭 I’m currently working on School violation website<br>👯 I’m looking to collaborate on web app<br>🌱 I’m currently learning NestJS and NextJS<br>💬 Ask me about anything<br>⚡ Fun fact i like badminton🏸
 
 
 ## 🌐 Socials:
